@@ -27,8 +27,8 @@ Com ele, usuários sem conhecimentos técnicos avançados podem facilmente ident
 
 ### Instalação
 ```bash
-uv venv create linha-ai-env
-source linha-ai-env/bin/activate
+uv venv create rastre-ia-env
+source rastre-ia-env/bin/activate
 uv pip install fastapi duckdb streamlit pandas ollama
 ```
 
