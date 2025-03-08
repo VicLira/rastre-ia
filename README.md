@@ -1,6 +1,6 @@
-# LinhAí - Data Lineage com Inteligência Artificial
+# RastreIa - Data Lineage com Inteligência Artificial
 
-O **LinhAí** é uma solução gratuita e open-source projetada para simplificar a rastreabilidade e o monitoramento do fluxo de dados entre etapas ou sistemas diferentes usando Inteligência Artificial (IA).
+O **RastreIa** é uma solução gratuita e open-source projetada para simplificar a rastreabilidade e o monitoramento do fluxo de dados entre etapas ou sistemas diferentes usando Inteligência Artificial (IA).
 
 Com ele, usuários sem conhecimentos técnicos avançados podem facilmente identificar quando, onde e por que alterações ocorrem em seus dados.
 
