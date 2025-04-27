@@ -30,7 +30,7 @@ class DuckDBReader(DataReader):
                 else:
                     continue
 
-                df['__origem_file'] = file
+                df['__source_file'] = file
                 dataframes.append(df)
 
             except Exception as e:

@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# created cache during application runtime
+projects/
